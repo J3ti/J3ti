@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J3ti
 - 👀 I’m interested in ... Food, travels
-- 🌱 I’m currently learning ... Java, git, algorithms
+- 🌱 I’m currently learning ... Java, git, algorithms, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
